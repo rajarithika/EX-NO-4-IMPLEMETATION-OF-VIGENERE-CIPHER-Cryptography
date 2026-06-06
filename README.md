@@ -72,6 +72,9 @@ int main() {
 ```
 ## OUTPUT
 
+<img width="535" height="292" alt="image" src="https://github.com/user-attachments/assets/8022b460-4545-4cf3-a312-c06e23921234" />
+
+
 ## RESULT
 
 Thus, Vigenere Cipher substitution technique using C program has been implemented successfully.
