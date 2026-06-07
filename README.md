@@ -30,7 +30,7 @@ STEP-7: The junction character where these two meet forms the cipher character.
 STEP-8: Repeat the above steps to generate the entire cipher text.
 
 ## NAME: RAJA RITHIKA
-## REG NO: 230501029
+## REG NO: 2305001029
 
 
 ## PROGRAM
